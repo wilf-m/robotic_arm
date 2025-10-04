@@ -1,0 +1,6 @@
+[submodule "firmware"]
+	path = firmware
+	url = https://github.com/wilf-m/robot_arm_firmware.git
+[submodule "python_client"]
+	path = python_client
+	url = https://github.com/wilf-m/robot_arm
